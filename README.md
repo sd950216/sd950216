@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sd950216
+- 👀 I’m interested in coding and Design
+- 🌱 I’m currently learning web develobment and flutter
+- 💞️ I’m looking to collaborate on full stack web developer
+- 📫 How to reach me : meen79508@gmail.com
