@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Ali! 👋
+# Hi there, it's Mohammed Ali! 👋
 
 I'm a passionate coder and design enthusiast currently delving into the realms of web development and mastering Python. 🚀
 
